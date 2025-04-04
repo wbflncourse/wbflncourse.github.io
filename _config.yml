@@ -1,8 +1,7 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: West Bengal FLN Course
+description: A course on Foundational Literacy and Numeracy
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+url: https://wbflncourse.github.io
+repository: wbflncourse/wbflncourse.github.io
+permalink: pretty
+search_enabled: false
